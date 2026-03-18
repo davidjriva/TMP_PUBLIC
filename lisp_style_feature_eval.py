@@ -1,3 +1,0 @@
-'''
-The Lisp-Style Feature Evaluator (Metaprogramming / Recursion)Chalk’s backend often evaluates expressions that look like a tree or a Lisp-style S-expression.The Problem:Write an evaluator that takes a nested list representing an operation and a dictionary of variable values.Input: expr = ["+", 5, ["*", "x", 2]], vars = {"x": 10}Output: 25 (computed as $5 + (10 \times 2)$)The Twist (Chalk-style):The interviewer might ask you to add Lazy Evaluation.Instead of returning the value, return a "LazyObject" that only computes the value when .resolve() is called.Why this fits: You already worked on a Lazy DAG engine; this tests if you can implement that core logic from scratch in a tree format.
-'''

@@ -1,19 +1,20 @@
 # System Design
 
 ## Recruiter Notes
+
 - standard backend product focused system design
-- Go on Google / YouTube 
-- Based on __ products. This has to do with their generative ai data engine 
+- Go on Google / YouTube
+- Based on \_\_ products. This has to do with their generative ai data engine
 - Gen ai data engine:
 - Fine tuning product
-- Two sided marketplace with AI labs and contributors / experts 
+- Two sided marketplace with AI labs and contributors / experts
 - Lab submits prompt and use cases to the data engine
 - They allocate the appropriate expert to particular use cases
-- Anthropic wants Claude to be better at astronomy so they source astronomers to help with this task and make changes / recommendations
+- An AI lab wants their LLM to be better at a specific domain (e.g., coding, law) so they source experts to help with this task and make changes / recommendations
 - They take the high quality training data that can be applied to the next gen model
 - Generating high quality training data to be applied to LLMs.
 - Come prepared with whiteboarding tools (I.e. Excalidraw).
-- API design + schema design + general architecture 
+- API design + schema design + general architecture
 - Start with functional and nonfunctional requirements
 - Want to see product requirements and system requirements
 - Scalability, latency, durability, fault tolerance
@@ -21,7 +22,7 @@
 - Observability / monitoring — infra, service, app level (bonus topics)
 - Really focus product and system requirements (80% breadth, 20% depth)
 
---------------------------------------------------
+---
 
 ## Web notes
 
