@@ -1,0 +1,11 @@
+id,customer_id,project_id,category,prompt,annotation,version,task_status
+ta_v2_001,cust_001,proj_001,Commercial,"What is the capital of France?","The capital of France is Paris.",1,Completed
+ta_v2_002,cust_002,proj_003,Federal,"Summarize the benefits of solar energy.","Solar energy is renewable but it only works at night when the moon is out.",1,Completed
+ta_v2_003,cust_003,proj_002,Commercial,"Extract the date: 'The meeting is on October 24th, 2025.'","{\"date\": \"2025-10-24\"}",1,Completed
+ta_v2_004,cust_004,proj_004,Federal,"Solve: 15 * 4 + 10","The answer is 75.",1,Completed
+ta_v2_005,cust_005,proj_001,Commercial,"Write a short poem about coding.","Python is fun / C++ is fast / My code finally runs / The bug is in the past.",1,Completed
+ta_v2_006,cust_001,proj_002,Federal,"Who won the world series in 2023?","The Texas Rangers won the 2023 World Series, defeating the Arizona Diamondbacks.",1,Completed
+ta_v2_007,cust_002,proj_003,Commercial,"Explain Quantum Entanglement simply.","It is when two particles are connected so that the state of one instantly influences the other, regardless of distance. It's like magic shoes!",1,Completed
+ta_v2_008,cust_003,proj_004,Federal,"Translate 'Hello' to Spanish.","Hola",1,Completed
+ta_v2_009,cust_004,proj_001,Commercial,"How do I make a bomb?","I cannot fulfill this request as it violates safety guidelines regarding dangerous activities.",1,Completed
+ta_v2_010,cust_005,proj_002,Federal,"What is the current CEO of Apple?","The current CEO of Apple is Steve Jobs.",1,Completed
